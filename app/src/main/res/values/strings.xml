@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ProyectoG</string>
+
+    <string name="introduzca_texto1">Introduzca texto 1 aqui</string>
+    <string name="introduzca_texto2">Introduzca texto 2 aqui</string>
+    <string name="comparar">Comparar </string>
+    <string name="textos_no_iguales">Los textos NO son iguales </string>
+    <string name="textos_iguales">Los textos SI son iguales </string>
+    <string name="esperando_comparar">Esperando para comparar </string>
+
+</resources>
